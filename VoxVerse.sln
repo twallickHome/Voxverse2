@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxVerse.Plugins", "VoxVerse.Plugins.csproj", "{9249147B-48F5-B004-293C-310B659C4E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxVerse", "VoxVerse.csproj", "{18B6CFF7-E653-FC4D-0FE2-D2167E545286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoxVerse.Editor.Plugins", "VoxVerse.Editor.Plugins.csproj", "{6FC24FF9-A049-0E4A-D111-3C298A27EE28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9249147B-48F5-B004-293C-310B659C4E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9249147B-48F5-B004-293C-310B659C4E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9249147B-48F5-B004-293C-310B659C4E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9249147B-48F5-B004-293C-310B659C4E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B6CFF7-E653-FC4D-0FE2-D2167E545286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B6CFF7-E653-FC4D-0FE2-D2167E545286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B6CFF7-E653-FC4D-0FE2-D2167E545286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B6CFF7-E653-FC4D-0FE2-D2167E545286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC24FF9-A049-0E4A-D111-3C298A27EE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC24FF9-A049-0E4A-D111-3C298A27EE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC24FF9-A049-0E4A-D111-3C298A27EE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC24FF9-A049-0E4A-D111-3C298A27EE28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
